@@ -1,0 +1,13 @@
+h1{color:linen;
+background: rgba(0,0,100,0.2);
+font-size: 200px;}
+body{background:url(https://images.wallpaperscraft.com/image/newspaper_coffee_cup_spoon_sunglasses_news_cup_holder_84893_1366x768.jpg) ;
+    background-attachment: fixed;
+text-align: center;}
+/* body{background-size: cover;} */
+.signin{background: rgba(0,200,200,0.2);
+font-size: 20px;
+font-family: 'Major Mono Display', monospace;
+font-weight: 700;}
+a{margin: 20%;
+color:#ffff00;}
